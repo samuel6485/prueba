@@ -12,3 +12,10 @@ img {
     width: 40%;
 
 }
+
+
+h1 {
+    color: blue;
+    text-align: center;
+    margin-top: 20px;
+}
